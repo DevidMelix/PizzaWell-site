@@ -30,6 +30,6 @@
 
 
 Схема базы данных
-
+<img src="image/Рисунок.png" alt="Полноэкранное изображение" style="display: block; margin: 0 auto; width: 100%;">
 
 
