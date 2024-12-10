@@ -29,7 +29,22 @@
 [Посмотреть видео](https://disk.yandex.ru/i/pXOZf0n9nOawPQ) (1:43)
 
 
-Схема базы данных
-<img src="image/Рисунок.png" alt="Полноэкранное изображение" style="display: block; margin: 0 auto; width: 100%;">
+## Схема базы данных
+
+<p align="center">
+  <img src="image/Рисунок.png" alt="Схема базы данных" style="display: block; margin: 0 auto; width: 80%;">
+</p>
+
+---
+
+## Блок-схема проекта
+
+<p align="center">
+  <img src="image/Блок-схема.png" alt="Блок-схема проекта" style="display: block; margin: 0 auto; width: 80%;">
+</p>
+
+
+
+
 
 
